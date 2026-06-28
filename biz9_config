@@ -1,5 +1,5 @@
-VERSION='1.0.7'
+VERSION='1.0.8'
 TITLE="500-TemplateZ";
 REPO="git@github.com:biz9framework/500-templatez.git";
-BRANCH='1.0.0'
+BRANCH='main'
 APP_TITLE_ID="500-templatez";
